@@ -11,7 +11,6 @@ Throughout this internship, I worked on real-world business datasets and gained 
 ## 🛠 Tools & Technologies Used
 
 - Microsoft Excel
-- Pivot Tables & Pivot Charts
 - SQLite (DB Browser for SQLite)
 - SQL
 - GitHub
